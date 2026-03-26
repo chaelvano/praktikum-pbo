@@ -1,3 +1,9 @@
+/*  Nama file: Persegi.java
+    Deskripsi: Class Persegi yang merupakan subclass dari BangunDatar
+    Pembuat: Michael Stevano (24060124140187)
+    Tanggal: 11 Maret 2026
+*/
+
 public class Persegi extends BangunDatar {
     private double sisi;
 

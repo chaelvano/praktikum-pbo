@@ -1,3 +1,9 @@
+/*  Nama file: Dosen.java
+    Deskripsi: Class Dosen yang memiliki hubungan kepemilikan lemah dari Mahasiswa
+    Pembuat: Michael Stevano (24060124140187)
+    Tanggal: 11 Maret 2026
+*/
+
 public class Dosen {
     private String nip;
     private String nama;

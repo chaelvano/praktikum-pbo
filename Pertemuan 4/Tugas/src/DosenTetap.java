@@ -1,3 +1,9 @@
+/*  Nama file: DosenTetap.java
+    Deskripsi: Class DosenTetap yang merupakan subclass dari Dosen
+    Pembuat: Michael Stevano (24060124140187)
+    Tanggal: 11 Maret 2026
+*/
+
 public class DosenTetap extends Dosen {
     private String nidn;
 

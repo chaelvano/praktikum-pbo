@@ -1,3 +1,9 @@
+/*  Nama file: MataKuliah.java
+    Deskripsi: Class MataKuliah yang memiliki hubungan kepemilikan lemah dari Mahasiswa
+    Pembuat: Michael Stevano (24060124140187)
+    Tanggal: 11 Maret 2026
+*/
+
 public class MataKuliah {
     private String idMatkul;
     private String nama;

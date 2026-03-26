@@ -1,3 +1,9 @@
+/*  Nama file: Pegawai.java
+    Deskripsi: Class Pegawai yang merupakan superclass dari TenagaKependidikan dan Dosen
+    Pembuat: Michael Stevano (24060124140187)
+    Tanggal: 11 Maret 2026
+*/
+
 public class Pegawai {
     // Protected fields dapat diakses langsung oleh subclass
     protected static String TANGGAL_HARI_INI = "11 Maret 2026"; // Tanggal yang digunakan untuk menghitung masa kerja dan tunjangan

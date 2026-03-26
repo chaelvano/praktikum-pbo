@@ -1,3 +1,9 @@
+/*  Nama file: MMahasiswa.java
+    Deskripsi: Main class yang digunakan untuk menguji Mahasiswa beserta relasinya terhadap objek-objek lain
+    Pembuat: Michael Stevano (24060124140187)
+    Tanggal: 11 Maret 2026
+*/
+
 public class MMahasiswa {
     public static void main(String[] args) {
         MataKuliah pbo = new MataKuliah("PBO", "Pemrograman Berbasis Objek", 3);

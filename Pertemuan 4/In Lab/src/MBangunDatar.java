@@ -1,3 +1,9 @@
+/*  Nama file: MBangunDatar.java
+    Deskripsi: Main class yang digunakan untuk menguji BangunDatar beserta subclassnya
+    Pembuat: Michael Stevano (24060124140187)
+    Tanggal: 11 Maret 2026
+*/
+
 public class MBangunDatar {
     public static void main(String[] args) {
         Persegi persegi = new Persegi(2, "Hijau", "Hitam");

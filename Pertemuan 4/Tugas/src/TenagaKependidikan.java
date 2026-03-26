@@ -1,3 +1,9 @@
+/*  Nama file: TenagaKependidikan.java
+    Deskripsi: Class TenagaKependidikan yang merupakan subclass dari Pegawai
+    Pembuat: Michael Stevano (24060124140187)
+    Tanggal: 11 Maret 2026
+*/
+
 public class TenagaKependidikan extends Pegawai {
     private String bidang;
 

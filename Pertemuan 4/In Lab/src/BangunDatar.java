@@ -1,3 +1,9 @@
+/*  Nama file: BangunDatar.java
+    Deskripsi: Class BangunDatar yang merupakan superclass dari Lingkaran dan Persegi
+    Pembuat: Michael Stevano (24060124140187)
+    Tanggal: 11 Maret 2026
+*/
+
 public class BangunDatar {
     private int jmlSisi;
     private String warna;

@@ -1,3 +1,9 @@
+/*  Nama file: Kendaraan.java
+    Deskripsi: Class Kendaraan yang memiliki hubungan kepemilikan kuat dari Mahasiswa
+    Pembuat: Michael Stevano (24060124140187)
+    Tanggal: 11 Maret 2026
+*/
+
 public class Kendaraan {
     private String noPlat;
     private String jenis;

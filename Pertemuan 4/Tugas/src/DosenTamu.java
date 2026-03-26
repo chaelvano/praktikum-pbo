@@ -1,3 +1,9 @@
+/*  Nama file: DosenTamu.java
+    Deskripsi: Class DosenTamu yang merupakan subclass dari Dosen
+    Pembuat: Michael Stevano (24060124140187)
+    Tanggal: 11 Maret 2026
+*/
+
 public class DosenTamu extends Dosen {
     private String nidk;
     private String tbk;

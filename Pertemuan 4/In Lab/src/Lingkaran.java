@@ -1,3 +1,9 @@
+/*  Nama file: Lingkaran.java
+    Deskripsi: Class Lingkaran yang merupakan subclass dari BangunDatar
+    Pembuat: Michael Stevano (24060124140187)
+    Tanggal: 11 Maret 2026
+*/
+
 public class Lingkaran extends BangunDatar {
     private double jari;
 

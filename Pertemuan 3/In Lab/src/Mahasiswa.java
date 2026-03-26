@@ -1,3 +1,9 @@
+/*  Nama file: Mahasiswa.java
+    Deskripsi: Class Mahasiswa yang memiliki hubungan kepemilikan kuat ke Kendaraan dan hubungan kepemilikan rendah ke MataKuliah dan Dosen
+    Pembuat: Michael Stevano (24060124140187)
+    Tanggal: 11 Maret 2026
+*/
+
 public class Mahasiswa {
     private String nim;
     private String nama;

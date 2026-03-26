@@ -1,3 +1,9 @@
+/*  Nama file: Dosen.java
+    Deskripsi: Class Dosen yang merupakan subclass dari Pegawai dan superclass dari DosenTetap dan DosenTamu
+    Pembuat: Michael Stevano (24060124140187)
+    Tanggal: 11 Maret 2026
+*/
+
 public class Dosen extends Pegawai {
     // Protected fields dapat diakses langsung oleh subclass
     protected String fakultas;

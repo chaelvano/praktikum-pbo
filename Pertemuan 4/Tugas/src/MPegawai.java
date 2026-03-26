@@ -1,3 +1,9 @@
+/*  Nama file: MPegawai.java
+    Deskripsi: Main class yang digunakan untuk menguji Pegawai beserta subclassnya
+    Pembuat: Michael Stevano (24060124140187)
+    Tanggal: 11 Maret 2026
+*/
+
 public class MPegawai {
     public static void main(){
         DosenTetap dosenTetap = new DosenTetap(
