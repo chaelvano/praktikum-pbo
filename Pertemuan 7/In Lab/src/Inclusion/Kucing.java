@@ -5,16 +5,20 @@
 */
 
 public class Kucing extends Anabul {
-    private String nama;
-
     public Kucing() {
-        super("Kucing");
+        super();
     }
 
+    public Kucing(String nama) {
+        super(nama);
+    }
+
+    @Override
     public void gerak() {
         System.out.println("Melata");
     }
 
+    @Override
     public void bersuara() {
         System.out.println("Meong");
     }

@@ -5,16 +5,20 @@
 */
 
 public class Anjing extends Anabul {
-    private String nama;
-
     public Anjing() {
-        super("Anjing");
+        super();
     }
 
+    public Anjing(String nama) {
+        super(nama);
+    }
+
+    @Override
     public void gerak() {
         System.out.println("Melata");
     }
 
+    @Override
     public void bersuara() {
         System.out.println("Guk-guk");
     }

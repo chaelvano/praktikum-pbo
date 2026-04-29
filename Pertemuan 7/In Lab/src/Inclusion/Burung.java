@@ -5,16 +5,20 @@
 */
 
 public class Burung extends Anabul {
-    private String nama;
-
     public Burung() {
-        super("Burung");
+        super();
     }
 
+    public Burung(String nama) {
+        super(nama);
+    }
+
+    @Override
     public void gerak() {
         System.out.println("Terbang");
     }
 
+    @Override
     public void bersuara() {
         System.out.println("Cuit");
     }
